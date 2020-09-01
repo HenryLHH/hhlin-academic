@@ -17,8 +17,8 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "Python"
+  description = "Pytorch, Numpy, OpenCV, ROS, etc."
   
 [[feature]]
   icon = "chart-line"
@@ -29,8 +29,8 @@ subtitle = ""
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Volleyball"
+  description = "Middle Blocker of Men's School Team"
 
 # Uncomment to use emoji icons.
 # [[feature]]
