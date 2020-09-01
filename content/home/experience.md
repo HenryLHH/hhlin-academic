@@ -33,12 +33,40 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "UCLA CSST Program"
+  company = "Summer Research Intern"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "California, United States"
+  date_start = "2020-07-06"
+  date_end = "2020-09-06"
+  description = """I am admitted to the CSST program at the University of California, Los Angeles (UCLA) this summer. The program is unfortunately suspended due to the terrible COVID-19 situation."""
+
+[[experience]]
+  title = "Research Assistant"
+  company = "ZJU BME Lab"
+  company_url = ""
+  location = "Zhejiang, China"
+  date_start = "2019-04-15"
+  date_end = ""
+  description = """Responsibilities include:
+
+  * Signal Analysis
+  * Time Series Learning Frameworks
+  * Deploying the Control System with LabView"""
+
+[[experience]]
+  title = "Electrical Volunteering Association"
+  company = "Zhejiang University"
+  company_url = ""
+  location = "Zhejiang, China"
+  date_start = "2017-09-07"
+  date_end = "2019-06-02"
+  description = """
+  Responsibilities include:
+  
+  * Handle Software & Hardware Problems of Laptop
+  * Deliver Courses of Soldering and Experiment
+  * Management of the Association (2500+ cases per year)
+  """
 
 +++
