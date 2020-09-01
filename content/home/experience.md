@@ -18,27 +18,55 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "UIUC Remote Research Intern"
+  company = "Dept. of Computer Science"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Illinois, United States"
+  date_start = "2020-05"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Proof of Optimality and Stability of PID Algorithm
+  * VAE Framework Deployment and Comparison
+  * Benchmark Experiment
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "UCLA CSST Program"
+  company = "Summer Research Intern"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "California, United States"
+  date_start = "2020-07"
+  date_end = "2020-09"
+  description = """I am admitted to the CSST program at the University of California, Los Angeles (UCLA) this summer. The program is unfortunately suspended due to the terrible COVID-19 situation."""
+
+[[experience]]
+  title = "Research Assistant"
+  company = "ZJU BME Lab"
+  company_url = ""
+  location = "Zhejiang, China"
+  date_start = "2019-04"
+  date_end = ""
+  description = """Responsibilities include:
+
+  * Signal Analysis
+  * Time Series Learning Frameworks
+  * Deploying the Control System with LabView"""
+
+[[experience]]
+  title = "Electrical Volunteering Association"
+  company = "Zhejiang University"
+  company_url = ""
+  location = "Zhejiang, China"
+  date_start = "2017-09"
+  date_end = "2019-06"
+  description = """
+  Responsibilities include:
+  
+  * Handle Software & Hardware Problems of Laptop
+  * Deliver Courses of Soldering and Experiment
+  * Management of the Association (2500+ cases per year)
+  """
 
 +++
