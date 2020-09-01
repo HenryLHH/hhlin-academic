@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Dept. of Computer Science at UIUC"
   company_url = ""
   location = "Illinois, United States"
-  date_start = "2020-05"
+  date_start = "2020-05-01"
   date_end = ""
   description = """
   Responsibilities include:
