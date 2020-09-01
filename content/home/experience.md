@@ -28,8 +28,8 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Proof of Optimality and Stability of PID Algorithm
-  * VAE Framework Deployment and Comparison
-  * Benchmark Experiment
+  * VAE Framework Deployment and Comparison on Disentangled Representation Learning Tasks
+  * Paper Writing & Supplementary Experiments
   """
 
 [[experience]]
