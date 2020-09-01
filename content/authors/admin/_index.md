@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Haohong Lin
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Senior Undergraduate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
-
+- name: Zhejiang University
+  url: "http://www.zju.edu.cn/"
+- name: Chu-Kochen Honors College
+  url: "http://ckc.zju.edu.cn/ckcen/main.htm"
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Representation Learning
+- Human Machine Interaction
+- Autonomous Driving
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Control Science and Engineering (Robotics Track)
+    institution: Zhejiang University
+    year: 2017-
+  - course: Science Course of High School
+    institution: Fuzhou No.1 High School 
+    year: 2014-2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -53,7 +51,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/henrylhh
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,7 +67,10 @@ user_groups:
 - Researchers
 - Visitors
 ---
+I am a senior undergraduate student at the Dept. of Control Science & Engineering, Zhejiang University. Since I was enrolled in Robotics track in my Sophomore year, I've been working on some related research topics in AI & Robotics. I've working at ZJU BME Lab, advised by professor Li Guang. I further extend my work in field of representation learning during my remote intern with Ph.D. Shao Huajie from CS@UIUC. Now I am working on an interesting workshop related to autonomous driving with both time series analysis and representation learning.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I was admitted to the CSST research program this summer at the University of California, Los Angeles (UCLA), which has been unfortunately suspended due to the outbreak of COVID-19.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I take an active part in Mathematical Modeling Competition. I received Finalist Prize (2% among 20,000+ teams) this year in Interdisciplinary Contest in Modeling (ICM).
+
+I am applying for a a Ph.D./MS program this fall.
