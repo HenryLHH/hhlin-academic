@@ -10,6 +10,6 @@ view: 4
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: "Attention Bidirectional LSTM Networks Based Mime Speech Recognition Using sEMG Data"
+  image: "feature2.png"
 ---
