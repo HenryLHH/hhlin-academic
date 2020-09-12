@@ -9,6 +9,6 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: "123"
+  image: "feature2.png"
 ---
