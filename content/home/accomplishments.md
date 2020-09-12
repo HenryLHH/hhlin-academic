@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = "http://www.comap-math.com/mcm/2020Certs/2016140.pdf"
   date_start = "2018-01-30"
   date_end = "2019-02-14"
-  description = "Get series of prizes in Mathematical Contest of Modeling, among which is there a Finalist Award (2%) in MCM/ICM-2020"
+  description = "Get series of prizes in Mathematical Contest of Modeling, including the Finalist Award (2%) in MCM/ICM-2020"
 
 [[item]]
   organization = "Zhejiang University"
