@@ -1,5 +1,5 @@
 ---
-title: "Challenging $\beta$-VAE with $\beta$ < 1 for Disentanglement Via Dynamic Learning"
+title: "Challenging β-VAE with β < 1 for Disentanglement Via Dynamic Learning"
 authors:
 - admin
 date: "2020-09-15T00:00:00Z"
