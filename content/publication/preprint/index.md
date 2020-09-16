@@ -1,5 +1,5 @@
 ---
-title: "Challenging Beta-VAE with Beta < 1 for Disentanglement Via Dynamic Learning"
+title: "Challenging $\beta$-VAE with $\beta$ < 1 for Disentanglement Via Dynamic Learning"
 authors:
 - admin
 date: "2020-09-15T00:00:00Z"
@@ -18,10 +18,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper challenges the common assumption that the weight of β-VAE should be larger than 1 in order to effectively disentangle latent factors. We demonstrate that β-VAE with β≤1 can not only obtain good disentanglement but significantly improve the reconstruction accuracy via dynamic control. The goal of this paper is to deal with the trade-off problem between reconstruction accuracy and disentanglement with unsupervised learning. The existing methods, such as β-VAE and FactorVAE, assign a large weight in the objective, leading to high reconstruction errors in order to obtain better disentanglement. To overcome this problem, ControlVAE is recently developed to dynamically tune the weight to achieve the trade-off between disentangling and reconstruction using control theory. However, ControlVAE cannot fully decouple disentanglement learning and reconstruction, because it suffers from overshoot problem of the designed controller and does not timely respond to the target KL-divergence at the beginning of model training. In this paper, we propose a novel DynamicVAE that leverages an incremental PI controller, a variant of proportional-integral-derivative controller (PID) controller, and moving average as well as hybrid annealing method to effectively decouple the reconstruction and disentanglement learning. We then theoretically prove the stability of the proposed approach. Evaluation results on benchmark datasets demonstrate that DynamicVAE significantly improves the reconstruction accuracy for the comparable disentanglement compared to the existing methods. More importantly, we discover that our method is able to separate disentanglement learning and reconstruction without introducing any conflict between them.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Disentanglement Representation, Variational Auto-Encoder, Evidence Lower Bound, Dynamic Systems
 
 tags:
 - Source Themes
@@ -42,7 +42,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](arxiv09.png)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
 
