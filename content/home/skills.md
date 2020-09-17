@@ -27,7 +27,7 @@ subtitle = ""
   description = "Especially Representation Learning"  
 # "camera-retro"
 [[feature]]
-  icon = "volleyball"
+  icon = " fa-volleyball-ball"
   icon_pack = "fas"
   name = "Volleyball"
   description = "Middle Blocker of Men's School Team"
