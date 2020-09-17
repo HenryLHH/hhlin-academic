@@ -23,8 +23,8 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Machine Learning"
+  description = "Representation Skills"  
   
 [[feature]]
   icon = "camera-retro"
