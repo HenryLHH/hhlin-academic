@@ -24,10 +24,10 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "Representation Skills"  
-  
+  description = "Especially Representation Learning"  
+# "camera-retro"
 [[feature]]
-  icon = "camera-retro"
+  icon = "volleyball"
   icon_pack = "fas"
   name = "Volleyball"
   description = "Middle Blocker of Men's School Team"
