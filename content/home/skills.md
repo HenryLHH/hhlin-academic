@@ -37,7 +37,7 @@ subtitle = ""
   icon = "fa-laptop"
   icon_pack = "fas"
   name = "Digital Devices Repairing"
-  link = https://baidu.com
+  link = "https://baidu.com"
   description = "Including PC (software issues), electronic kettles, refrigerator, washing machines and other devices." 
 
 # "camera-retro"
