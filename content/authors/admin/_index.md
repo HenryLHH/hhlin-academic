@@ -67,10 +67,10 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a senior undergraduate student at the Dept. of Control Science & Engineering, Zhejiang University. Since I was enrolled in Robotics track in my Sophomore year, I've been working on some related research topics in AI & Robotics. I've working at ZJU BME Lab, advised by professor Li Guang. I further extend my work in field of representation learning during my remote intern with Ph.D. Shao Huajie from CS@UIUC. Now I am working on an interesting workshop related to autonomous driving with both time series analysis and representation learning.
+I am a senior undergraduate student at the Dept. of Control Science & Engineering, Zhejiang University. I've working at ZJU BME Lab, advised by professor Li Guang. I further extend my work in field of representation learning during my remote intern with Ph.D. Shao Huajie from CS@UIUC. Now I am working on a NIPS workshop related to autonomous driving with both time series analysis and representation learning.
 
 I was admitted to the CSST research program this summer at the University of California, Los Angeles (UCLA), which has been unfortunately suspended due to the outbreak of COVID-19.
 
 I take an active part in Mathematical Modeling Competition. I received Finalist Prize (2% among 20,000+ teams) this year in Interdisciplinary Contest in Modeling (ICM).
 
-I am applying for a a Ph.D./MS program this fall.
+I am applying for a a Ph.D./MS program this fall. You may check in my {{< staticref "https://drive.google.com/file/d/1eolZzPNGJS-zb31B2uaAC3GMhQCTY-Pv/view?usp=sharing" "newtab" >}}CV{{< /staticref >}} for further information.
