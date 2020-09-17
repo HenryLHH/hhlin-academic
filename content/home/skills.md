@@ -14,17 +14,32 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
+# r-project
 [[feature]]
-  icon = "r-project"
+  icon = "fa-python"
   icon_pack = "fab"
   name = "Python"
-  description = "Pytorch, Numpy, OpenCV, ROS, etc."
+  description = "Pytorch, OpenCV, ROS, librosa, etc."
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "Especially Representation Learning"  
+  description = "Including time series feature engineering and representation learning"  
+
+[[feature]]
+  icon = "fa-robot"
+  icon_pack = "fas"
+  name = "Robotics"
+  description = "Localization, Mapping and Control Algorithm"  
+
+[[feature]]
+  icon = "fa-laptop"
+  icon_pack = "fas"
+  name = "Digital Devices Repairing"
+  link = https://baidu.com
+  description = "Including PC (software issues), electronic kettles, refrigerator, washing machines and other devices." 
+
 # "camera-retro"
 [[feature]]
   icon = " fa-volleyball-ball"
