@@ -16,7 +16,7 @@ subtitle = ""
 
 # r-project
 [[feature]]
-  icon = "fa-python"
+  icon = "python"
   icon_pack = "fab"
   name = "Python"
   description = "Pytorch, OpenCV, ROS, librosa, etc."
@@ -28,7 +28,7 @@ subtitle = ""
   description = "Including time series feature engineering and representation learning"  
 
 [[feature]]
-  icon = "fa-robot"
+  icon = "robot"
   icon_pack = "fas"
   name = "Robotics"
   description = "Localization, Mapping and Control Algorithm"  
