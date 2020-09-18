@@ -34,7 +34,7 @@ subtitle = ""
   description = "Localization, Mapping and Control Algorithm"  
 
 [[feature]]
-  icon = "fa-laptop"
+  icon = "laptop"
   icon_pack = "fas"
   name = "Digital Devices Repairing"
   link = "https://baidu.com"
