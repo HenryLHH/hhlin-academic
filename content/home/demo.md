@@ -50,6 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-This homepage is currently under construction...
-{{% /alert %}}
+# {{% alert note %}}
+# This homepage is currently under construction...
+# {{% /alert %}}
