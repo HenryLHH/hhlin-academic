@@ -1,12 +1,12 @@
 ---
-title: "Challenging β-VAE with β < 1 for Disentanglement Via Dynamic Learning"
+title: "Attention Bidirectional LSTM Networks Based Mime Speech Recognition Using sEMG Data"
 authors:
 - admin
-date: "2020-09-15T00:00:00Z"
+date: "2020-08-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-09-15T00:00:00Z"
+publishDate: "2020-08-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,10 +18,10 @@ publication_types: ["1"]
 publication: ""
 publication_short: ""
 
-abstract: This paper challenges the common assumption that the weight of β-VAE should be larger than 1 in order to effectively disentangle latent factors. We demonstrate that β-VAE with β≤1 can not only obtain good disentanglement but significantly improve the reconstruction accuracy via dynamic control. The goal of this paper is to deal with the trade-off problem between reconstruction accuracy and disentanglement with unsupervised learning. The existing methods, such as β-VAE and FactorVAE, assign a large weight in the objective, leading to high reconstruction errors in order to obtain better disentanglement. To overcome this problem, ControlVAE is recently developed to dynamically tune the weight to achieve the trade-off between disentangling and reconstruction using control theory. However, ControlVAE cannot fully decouple disentanglement learning and reconstruction, because it suffers from overshoot problem of the designed controller and does not timely respond to the target KL-divergence at the beginning of model training. In this paper, we propose a novel DynamicVAE that leverages an incremental PI controller, a variant of proportional-integral-derivative controller (PID) controller, and moving average as well as hybrid annealing method to effectively decouple the reconstruction and disentanglement learning. We then theoretically prove the stability of the proposed approach. Evaluation results on benchmark datasets demonstrate that DynamicVAE significantly improves the reconstruction accuracy for the comparable disentanglement compared to the existing methods. More importantly, we discover that our method is able to separate disentanglement learning and reconstruction without introducing any conflict between them.
+abstract: Surface electromyography (sEMG) has been proven competent and reliable to recognize speech musculature movement patterns. In other words, we can understand what a person prepares to say by collecting sEMG signals around the mouth. Therefore, sEMG-based Mime Speech Recognition (MSR) is a potential technique for human-machine interaction within noisy surroundings as well as the application of helping dysarthric patients. In this paper, we introduce multi-layer Bidirectional Long Short-Term Memory (BLSTM) networks with attention mechanism as a classifier for MSR, and verify it in the data set  collected by ourselves. Six-channel sEMG signals are firstly acquired from elaborately selected facial muscles. Short-time Fourier Transform (STFT) and Convolutional Neural Networks (CNN) are utilized to extract time-frequency domain feature maps, replacing the handcrafted features in classic methods. The second phase of recognition process lies in the designed classifier. This classification system achieves over 97% accuracy in the fourclass MSR task, significantly surpassing simple CNN and LSTM methods. Such result also indicates that excellent MSR results can be achieved without relying on handcrafted signal features.
 
 # Summary. An optional shortened abstract.
-summary: Disentanglement Representation, Variational Auto-Encoder, Evidence Lower Bound, Dynamic Systems
+summary: human-machine interaction, attention BLSTM, surface electromyography, mime speech recognition
 
 tags:
 - Source Themes
@@ -31,8 +31,8 @@ featured: true
 # - name: Custom Link
 #   url: https://github.com/shj1987/ControlVAE-ICML2020
 
-url_pdf: https://arxiv.org/pdf/2009.06795.pdf
-url_code: 'https://github.com/shj1987/ControlVAE-ICML2020'
+url_pdf: https://drive.google.com/file/d/1N4vRk-szHmW-hitEm1fughwA9aBJdSLS/view?usp=sharing
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -43,7 +43,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'PID Controller for hyper parameter β: [**A diagram view**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Feature Engineering Diagram: [**time domain and time-frequency domain**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
 
