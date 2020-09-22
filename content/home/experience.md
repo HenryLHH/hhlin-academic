@@ -27,9 +27,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Proof of Optimality and Stability of PID Algorithm
-  * VAE Framework Deployment and Comparison on Disentangled Representation Learning Tasks
-  * Paper Writing & Supplementary Experiments
+  * Proved the optimality and stability of PID Algorithm
+  * Deployed the DynamicVAE framework and compared with baselines on Disentangled Representation Learning Tasks
+  * Wrote Paper (which is already preprint) and carried out Supplementary Experiments
   """
 
 [[experience]]
@@ -50,9 +50,9 @@ date_format = "Jan 2006"
   date_end = ""
   description = """Responsibilities include:
 
-  * Signal Analysis
-  * Time Series Learning Frameworks
-  * Deploying the Control System with LabView"""
+  * Implemented algorithm of signal preprocessing
+  * Designed an Attention-based BLSTM time Series learning framework
+  * Deployed the device control system with LabView"""
 
 [[experience]]
   title = "Electrical Volunteering Association"
