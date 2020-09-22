@@ -64,9 +64,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Handle Software & Hardware Problems of Laptop
-  * Deliver Courses of Soldering and Experiment
-  * Management of the Association (2500+ cases per year)
+  * Handled software & hardware problems of laptops
+  * Delivered courses of soldering and experiment
+  * Managed the association as Chairman (2500+ cases per year)
   """
 
 +++
