@@ -42,10 +42,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'mailto:lhh2017@zju.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://www.linkedin.com/in/haohong-lin-06572b1a5/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
