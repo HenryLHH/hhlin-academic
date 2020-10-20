@@ -39,7 +39,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Zhejiang University"
   organization_url = "http://www.zju.edu.cn/english/"
-  title = "Chu Kochen Honors Scholarships"
+  title = "Chu Kochen Scholarships"
   url = ""
   certificate_url = ""
   date_start = "2020-10-16"
