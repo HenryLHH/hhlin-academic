@@ -27,7 +27,6 @@ date_format = "Jan 2006"
   date_start = "2018-01-30"
   date_end = "2019-02-14"
   description = "Get series of prizes in Mathematical Contest of Modeling, including the Finalist Award (2%) in MCM/ICM-2020"
-
 [[item]]
   organization = "Zhejiang University"
   organization_url = "http://www.zju.edu.cn/english/"
@@ -37,7 +36,15 @@ date_format = "Jan 2006"
   date_start = "2019-10-10"
   date_end = ""
   description = "Top 1% among the undergraduate students in Mixed Class in Chu-Kochen Honors College."
-  
+[[item]]
+  organization = "Zhejiang University"
+  organization_url = "http://www.zju.edu.cn/english/"
+  title = "Chu Kochen Honors Scholarships"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-10-16"
+  date_end = ""
+  description = "Top Scholarship of Zhejiang University. 12 students among all the 24,000 undergraduates per year."
 [[item]]
   organization = "Tang Lixin"
   organization_url = "https://chinaphilanthropy.ash.harvard.edu/en/philanthropists/1169"
