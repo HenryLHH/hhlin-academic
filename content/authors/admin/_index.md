@@ -67,7 +67,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a senior undergraduate student at the Dept. of Control Science & Engineering, Zhejiang University. I've been advised by professor Li Guang at ZJU BME Lab, where I focus on extracting features fro biological time series with deep neural networks. I further extend my work in the field of disentangled representation learning during my remote intern with Ph.D. Shao Huajie from CS@UIUC. Now I'm working on a NIPS challenge related to autonomous driving with both time series analysis and representation learning.
+I am a senior undergraduate student at the Dept. of Control Science & Engineering, Zhejiang University. I'll be joining CMU {{< staticref "https://safeai-lab.github.io/" "newtab" >}}SafeAI Lab{{< /staticref >}}, advised by Professor {{< staticref "https://safeai-lab.github.io/people.html" "newtab" >}}Ding Zhao{{< /staticref >}}.
 
 I was admitted to the CSST research program this summer at the University of California, Los Angeles (UCLA), which has been unfortunately suspended due to the outbreak of COVID-19.
 
