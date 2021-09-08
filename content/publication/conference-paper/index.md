@@ -1,5 +1,5 @@
 ---
-title: "Attention Bidirectional LSTM Networks Based Mime Speech Recognition Using sEMG Data"
+title: "Controllable and Diverse Text Generation in E-commerce"
 authors:
 - admin
 date: "2020-08-01T00:00:00Z"
@@ -18,10 +18,11 @@ publication_types: ["1"]
 publication: ""
 publication_short: ""
 
-abstract: Surface electromyography (sEMG) has been proven competent and reliable to recognize speech musculature movement patterns. In other words, we can understand what a person prepares to say by collecting sEMG signals around the mouth. Therefore, sEMG-based Mime Speech Recognition (MSR) is a potential technique for human-machine interaction within noisy surroundings as well as the application of helping dysarthric patients. In this paper, we introduce multi-layer Bidirectional Long Short-Term Memory (BLSTM) networks with attention mechanism as a classifier for MSR, and verify it in the data set  collected by ourselves. Six-channel sEMG signals are firstly acquired from elaborately selected facial muscles. Short-time Fourier Transform (STFT) and Convolutional Neural Networks (CNN) are utilized to extract time-frequency domain feature maps, replacing the handcrafted features in classic methods. The second phase of recognition process lies in the designed classifier. This classification system achieves over 97% accuracy in the fourclass MSR task, significantly surpassing simple CNN and LSTM methods. Such result also indicates that excellent MSR results can be achieved without relying on handcrafted signal features.
+abstract: In E-commerce, a key challenge in text generation is to find a good trade-off between word diversity and accuracy (relevance) in order to make generated text appear more natural and human-like. In order to improve the relevance of generated results, conditional text generators were developed that use input keywords or attributes to produce the corresponding text. Prior work, however, do not finely control the diversity of automatically generated sentences. For example, it does not control the order of keywords to put more relevant ones first. Moreover, it does not explicitly control the balance between diversity and accuracy. To remedy these problems, we propose a fine-grained controllable generative model, called~\textit{Apex}, that uses an algorithm borrowed from automatic control (namely, a variant of the \textit{proportional, integral, and derivative (PID) controller}) to precisely manipulate the diversity/accuracy trade-off of generated text. The algorithm is injected into a Conditional Variational Autoencoder (CVAE), allowing \textit{Apex} to control both (i) the order of keywords in the generated sentences (conditioned on the input keywords and their order), and (ii) the trade-off between diversity and accuracy. Evaluation results on real-world datasets show that the proposed method outperforms existing generative models in terms of diversity and relevance. Apex is currently deployed to generate production descriptions and item recommendation reasons in Taobao owned by Alibaba, the largest E-commerce platform in China. The A/B production test results show that our method improves click-through rate (CTR) by 13.17\% compared to the existing method for production descriptions. For item recommendation reason, it is able to increase CTR by 6.89\% and 1.42\% compared to user reviews and top-K item recommendation without reviews, respectively.
+
 
 # Summary. An optional shortened abstract.
-summary: human-machine interaction, attention BLSTM, surface electromyography, mime speech recognition
+summary: 
 
 tags:
 - Source Themes
@@ -31,7 +32,7 @@ featured: true
 # - name: Custom Link
 #   url: https://github.com/shj1987/ControlVAE-ICML2020
 
-url_pdf: https://drive.google.com/file/d/1N4vRk-szHmW-hitEm1fughwA9aBJdSLS/view?usp=sharing
+url_pdf: https://arxiv.org/pdf/2102.11497.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
