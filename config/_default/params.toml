@@ -88,19 +88,19 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "lhh2017@zju.edu.cn"
-phone = "(+86) 15356150850"
+email = "lhh99machinelearning@gmail.com"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "38 Zheda Rd", city = "Hangzhou", region = "Zhejiang", postcode = "310000", country = "China", country_code = "CN"}
+address = {street = "5000 Forbes Avenue", city = "Pittsburgh", region = "PA", postcode = "15123", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "30.2695", longitude = "120.1248"}
+coordinates = {latitude = "40.4435", longitude = "79.9416"}
 
 # Directions for visitors to locate you.
-directions = "New Building of Industrial Process Control"
+directions = "Hamerschleg Hall, Carnegie Mellon University"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
