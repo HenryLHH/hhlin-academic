@@ -73,4 +73,4 @@ I was admitted to the CSST research program this summer at the University of Cal
 
 I take an active part in Mathematical Modeling Competition. I received Finalist Prize (2% among 20,000+ teams) this year in Interdisciplinary Contest in Modeling (ICM).
 
-I am applying for a Ph.D./MS program this fall. You may check in my {{< staticref "https://drive.google.com/file/d/1eolZzPNGJS-zb31B2uaAC3GMhQCTY-Pv/view?usp=sharing" "newtab" >}}CV{{< /staticref >}} for further information.
+<!-- I am applying for a Ph.D./MS program this fall. You may check in my {{< staticref "https://drive.google.com/file/d/1eolZzPNGJS-zb31B2uaAC3GMhQCTY-Pv/view?usp=sharing" "newtab" >}}CV{{< /staticref >}} for further information. -->
