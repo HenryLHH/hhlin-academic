@@ -67,10 +67,10 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a senior undergraduate student at the Dept. of Control Science & Engineering, Zhejiang University. I'll be joining CMU {{< staticref "https://safeai-lab.github.io/" "newtab" >}}SafeAI Lab{{< /staticref >}}, advised by Professor {{< staticref "https://safeai-lab.github.io/people.html" "newtab" >}}Ding Zhao{{< /staticref >}}.
+I am a first year PhD student of {{< staticref "https://safeai-lab.github.io/" "newtab" >}}SafeAI Lab{{< /staticref >}} at Carnegie Mellon University, fortunately advised by Professor {{< staticref "https://safeai-lab.github.io/people.html" "newtab" >}}Ding Zhao{{< /staticref >}}. My current research interest lies at the intersection of knowledge-guided generation and autonomous driving.
 
-I was admitted to the CSST research program this summer at the University of California, Los Angeles (UCLA), which has been unfortunately suspended due to the outbreak of COVID-19.
+<!-- I was admitted to the CSST research program this summer at the University of California, Los Angeles (UCLA), which has been unfortunately suspended due to the outbreak of COVID-19.
 
-I take an active part in Mathematical Modeling Competition. I received Finalist Prize (2% among 20,000+ teams) this year in Interdisciplinary Contest in Modeling (ICM).
+I take an active part in Mathematical Modeling Competition. I received Finalist Prize (2% among 20,000+ teams) this year in Interdisciplinary Contest in Modeling (ICM). -->
 
 <!-- I am applying for a Ph.D./MS program this fall. You may check in my {{< staticref "https://drive.google.com/file/d/1eolZzPNGJS-zb31B2uaAC3GMhQCTY-Pv/view?usp=sharing" "newtab" >}}CV{{< /staticref >}} for further information. -->
