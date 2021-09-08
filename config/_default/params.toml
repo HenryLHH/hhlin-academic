@@ -97,7 +97,7 @@ address = {street = "5000 Forbes Avenue", city = "Pittsburgh", region = "PA", po
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = 139.5565", longitude = "79.9416"}
+coordinates = {latitude = "40.4435", longitude = "-79.9416"}
 
 # Directions for visitors to locate you.
 directions = "Hamerschleg Hall, Carnegie Mellon University"
