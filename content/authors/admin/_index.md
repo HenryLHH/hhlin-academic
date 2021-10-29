@@ -55,10 +55,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/henrylhh
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=EK_pgMIAAAAJ&hl=zh-CN&oi=ao
-- icon: google-scholar
+- icon: ai-google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=EK_pgMIAAAAJ&hl=zh-CN&oi=ao
 - icon: twitter
