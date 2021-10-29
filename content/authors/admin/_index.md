@@ -16,10 +16,10 @@ role: First-year PhD
 organizations:
 - name: Carnegie Mellon University
   url: https://www.cmu.edu/
-- name: Zhejiang University
-  url: "http://www.zju.edu.cn/"
-- name: Chu-Kochen Honors College
-  url: "http://ckc.zju.edu.cn/ckcen/main.htm"
+# - name: Zhejiang University
+#   url: "http://www.zju.edu.cn/"
+# - name: Chu-Kochen Honors College
+#   url: "http://ckc.zju.edu.cn/ckcen/main.htm"
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
@@ -53,7 +53,7 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/haohong-lin-06572b1a5/
 - icon: google-scholar
-  icon_pack: ai
+  icon_pack: fab
   link: https://scholar.google.com/citations?user=EK_pgMIAAAAJ&hl=zh-CN&oi=ao
 - icon: github
   icon_pack: fab
