@@ -1,10 +1,3 @@
-<!--
- * @Author: Haohong Lin
- * @Date: 2021-10-28 20:55:35
- * @LastEditors: Haohong Lin
- * @LastEditTime: 2021-10-28 21:11:20
- * @Description: file content
--->
 ---
 # Display name
 title: Haohong Lin
@@ -17,10 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Undergraduate
+role: First-year PhD
 
 # Organizations/Affiliations
 organizations:
+- name: Carnegie Mellon University
+  url: https://www.cmu.edu/
 - name: Zhejiang University
   url: "http://www.zju.edu.cn/"
 - name: Chu-Kochen Honors College
@@ -35,10 +30,10 @@ interests:
 
 education:
   courses:
-  - course: PhD in Mechanical Engineering
+  - course: Ph.D. in Mechanical Engineering
     institution: Carnegie Mellon University
     year: 2021-
-  - course: BSc in Control Science and Engineering (Robotics Track)
+  - course: B.Eng. in Control Science and Engineering (Robotics Track)
     institution: Zhejiang University
     year: 2017-2021
   - course: Science Course of High School
@@ -58,7 +53,7 @@ social:
   link: https://www.linkedin.com/in/haohong-lin-06572b1a5/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=EK_pgMIAAAAJ&hl=zh-CN&oi=ao
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/henrylhh
