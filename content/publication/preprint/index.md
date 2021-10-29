@@ -106,7 +106,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Diagram of proposed CausalAF. (pipeline_3.png)'
+  caption: 'Diagram of proposed CausalAF. '
   focal_point: ""
   preview_only: false
 
