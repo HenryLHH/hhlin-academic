@@ -24,9 +24,10 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Representation Learning
-- Human Machine Interaction
+- Deep Generative Models
+- Causal Inference
 - Autonomous Driving
+
 
 education:
   courses:
