@@ -1,7 +1,7 @@
 ---
 title: "Controllable and Diverse Text Generation in E-commerce"
 authors:
-- Huajie Shao, Jun Wang, [**Haohong Lin**], Xuezhou Zhang, Aston Zhang, Heng Ji, Tarek Abdelzaher
+- Huajie Shao, Jun Wang, *Haohong Lin*, Xuezhou Zhang, Aston Zhang, Heng Ji, Tarek Abdelzaher
 date: "2020-08-01T00:00:00Z"
 doi: ""
 

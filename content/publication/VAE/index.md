@@ -1,7 +1,7 @@
 ---
 title: "Challenging β-VAE with β < 1 for Disentanglement Via Dynamic Learning"
 authors:
-- Huajie Shao*, [**Haohong Lin**]*, Qinmin Yang, Shuochao Yao, Han Zhao, Tarek Abdelzaher
+- Huajie Shao*, Haohong Lin*, Qinmin Yang, Shuochao Yao, Han Zhao, Tarek Abdelzaher
 date: "2020-09-15T00:00:00Z"
 doi: ""
 
