@@ -64,7 +64,7 @@
 
 title: "CausalAF: Causal Autoregressive Flow for Goal-Directed Safety-Critical Scenes Generation"
 authors:
-- admin
+- Wenhao Ding, admin, Bo Li, Ding Zhao
 date: "2021-10-26T00:00:00Z"
 doi: ""
 
@@ -116,7 +116,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
