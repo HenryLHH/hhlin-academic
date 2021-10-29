@@ -1,3 +1,10 @@
+<!--
+ * @Author: Haohong Lin
+ * @Date: 2021-10-28 20:55:35
+ * @LastEditors: Haohong Lin
+ * @LastEditTime: 2021-10-28 21:11:20
+ * @Description: file content
+-->
 ---
 # Display name
 title: Haohong Lin
@@ -28,9 +35,12 @@ interests:
 
 education:
   courses:
+  - course: PhD in Mechanical Engineering
+    institution: Carnegie Mellon University
+    year: 2021-
   - course: BSc in Control Science and Engineering (Robotics Track)
     institution: Zhejiang University
-    year: 2017-
+    year: 2017-2021
   - course: Science Course of High School
     institution: Fuzhou No.1 High School 
     year: 2014-2017
@@ -48,7 +58,7 @@ social:
   link: https://www.linkedin.com/in/haohong-lin-06572b1a5/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=EK_pgMIAAAAJ&hl=zh-CN&oi=ao
 - icon: github
   icon_pack: fab
   link: https://github.com/henrylhh
