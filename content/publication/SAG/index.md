@@ -2,7 +2,6 @@
 title: "Semantically Adversarial Driving Scenario Generation with Explicit Knowledge Integration"
 authors:
 - Wenhao Ding, Haohong Lin, Bo Li, Kim Ji Eun, Ding Zhao
-
 date: "2022-03-19T00:00:00Z"
 doi: ""
 
