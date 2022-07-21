@@ -12,7 +12,7 @@ publishDate: "2022-06-19T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -31,8 +31,8 @@ featured: true
 # - name: Custom Link
 #   url: https://github.com/shj1987/ControlVAE-ICML2020
 
-url_pdf: https://arxiv.org/pdf/2009.06795.pdf
-url_code: 'https://github.com/shj1987/ControlVAE-ICML2020'
+url_pdf: https://arxiv.org/pdf/2106.04066.pdf
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
