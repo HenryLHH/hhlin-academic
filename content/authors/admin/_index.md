@@ -24,9 +24,8 @@ organizations:
 bio: My research interests include causal inference, out-of-distribution generalization and robotics.
 
 interests:
-- Deep Generative Models
-- Causal Inference
-- Autonomous Driving
+- Knowledge-guided Deep Generative Models
+- Generalizable Reinforcement Learning
 
 
 education:
@@ -34,7 +33,7 @@ education:
   - course: Ph.D. in Mechanical Engineering
     institution: Carnegie Mellon University
     year: 2021-
-  - course: B.Eng. in Control Science and Engineering (Robotics Track)
+  - course: B.Eng. in Control Science and Engineering (Robotics Track), Mixed Class in Chu-Kochen Honors College
     institution: Zhejiang University
     year: 2017-2021
   - course: Science Course of High School
@@ -73,7 +72,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a first year PhD student of {{< staticref "https://safeai-lab.github.io/" "newtab" >}}SafeAI Lab{{< /staticref >}} at Carnegie Mellon University, fortunately advised by Professor {{< staticref "https://safeai-lab.github.io/people.html" "newtab" >}}Ding Zhao{{< /staticref >}}. My current research interest lies at the intersection of knowledge-guided generation and autonomous driving.
+I am a first year PhD student of {{< staticref "https://safeai-lab.github.io/" "newtab" >}}SafeAI Lab{{< /staticref >}} at Carnegie Mellon University, advised by Professor {{< staticref "https://safeai-lab.github.io/people.html" "newtab" >}}Ding Zhao{{< /staticref >}}. My current research interest lies at the intersection of knowledge-guided generation and generalizable reinforcement learning, which can potentially be applied on robots and other autonomous systems.
 
 <!-- I was admitted to the CSST research program this summer at the University of California, Los Angeles (UCLA), which has been unfortunately suspended due to the outbreak of COVID-19.
 
