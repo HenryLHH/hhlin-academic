@@ -22,7 +22,8 @@ abstract: Generating adversarial scenarios, which have the potential to fail aut
 
 
 # Summary. An optional shortened abstract.
-summary: Knowledge-guided Generation, Adversarial Attack
+summary: Under Review
+# Knowledge-guided Generation, Adversarial Attack
 
 tags:
 - Source Themes
