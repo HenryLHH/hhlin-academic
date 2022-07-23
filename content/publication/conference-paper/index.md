@@ -22,7 +22,8 @@ abstract: In E-commerce, a key challenge in text generation is to find a good tr
 
 
 # Summary. An optional shortened abstract.
-summary: Controllable Deep Generative Models
+summary: WWW 2021
+# Controllable Deep Generative Models
 
 tags:
 - Source Themes
