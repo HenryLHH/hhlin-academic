@@ -30,10 +30,10 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. in Mechanical Engineering
+  - course: Ph.D., SafeAI Lab
     institution: Carnegie Mellon University
     year: 2021-
-  - course: B.Eng. in Control Science and Engineering (Robotics Track), Mixed Class in Chu-Kochen Honors College
+  - course: B.Eng. in Robotics Track @ CSE, CKC Honors College
     institution: Zhejiang University
     year: 2017-2021
   - course: Science Course of High School
