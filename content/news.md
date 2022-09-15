@@ -13,6 +13,9 @@ List of news.
 image = ""
 caption = ""
 
+[design.background]
+  # Background color.
+  color = "#F0FFFF"
 +++
 
 {{< readfromfile "/content/newslist.dat" 1000 >}} 
