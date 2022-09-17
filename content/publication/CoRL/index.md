@@ -15,13 +15,13 @@ publishDate: "2021-10-26T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "CoRL 2022"
+publication_short: "CoRL 2022"
 
 abstract: Goal-directed generation, aiming for solving downstream tasks by generating diverse data, has a potentially wide range of applications in the real world. Previous works tend to formulate goal-directed generation as a purely data-driven problem, which directly searches or approximates the distribution of samples satisfying the goal. However, the generation ability of preexisting work is heavily restricted by inefficient sampling, especially for sparse goals that rarely show up in off-the-shelf datasets. For instance, generating safety-critical traffic scenes with the goal of increasing the risk of collision is critical to evaluate autonomous vehicles, but the rareness of such scenes is the biggest resistance. In this paper, we integrate causality as a prior into the safety-critical scene generation process and propose a flow-based generative framework - Causal Autoregressive Flow (CausalAF). CausalAF encourages the generative model to uncover and follow the causal relationship among generated objects via novel causal masking operations instead of searching the sample only from observational data. By learning the cause-and-effect mechanism of how the generated scene achieves the goal rather than just learning correlations from data, CausalAF significantly improves the learning efficiency. Extensive experiments on three heterogeneous traffic scenes illustrate that CausalAF requires much fewer optimization resources to effectively generate goal-directed scenes for safety evaluation tasks.
 
 # Summary. An optional shortened abstract.
-summary: Conference on Robot Learning (CoRL) 2022
+summary: CoRL 2022
 # Causal Generative Models, Safety-critical Scene Generation, Autonomous driving
 
 tags:
