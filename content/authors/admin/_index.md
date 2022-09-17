@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: First-year PhD
+role: Second-year PhD
 
 # Organizations/Affiliations
 organizations:
