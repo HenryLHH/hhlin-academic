@@ -37,7 +37,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 4
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -46,7 +46,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
     
   # Background color.
-  color = "#F0FFFF"
+  # color = "#F0FFFF"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
