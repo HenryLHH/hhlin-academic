@@ -72,7 +72,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a second year PhD student of {{< staticref "https://safeai-lab.github.io/" "newtab" >}}SafeAI Lab{{< /staticref >}} at Carnegie Mellon University, advised by Professor {{< staticref "https://safeai-lab.github.io/people.html" "newtab" >}}Ding Zhao{{< /staticref >}}. My current research interest lies at the intersection of knowledge-guided generation and generalizable reinforcement learning, which can potentially be applied on robots and other autonomous systems.
+I am a second year PhD student of {{< staticref "https://safeai-lab.github.io/" "newtab" >}}SafeAI Lab{{< /staticref >}} at Carnegie Mellon University, advised by Professor {{< staticref "https://safeai-lab.github.io/people.html" "newtab" >}}Ding Zhao{{< /staticref >}}. I also work closely with Professor {{< staticref "https://aisecure.github.io/" "newtab" >}}Bo Li{{< /staticref >}}. My current research interest lies at the intersection of knowledge-guided generation and generalizable reinforcement learning, which can potentially be applied on robots and other autonomous systems. Prior to CMU, I spent wonderful time collaborating with {{< staticref "https://shj1987.github.io/" "newtab" >}}Huajie Shao{{< /staticref >}}, who joined William and Mary as tenure-track assistant professor.
 
 <!-- I was admitted to the CSST research program this summer at the University of California, Los Angeles (UCLA), which has been unfortunately suspended due to the outbreak of COVID-19.
 
