@@ -1,8 +1,8 @@
 ---
-title: "Generalize by Touch: Tactile Ensemble Skill Transfer for Robotic Assembly"
+title: "Generalize by Touching: Tactile Ensemble Skill Transfer for Robotic Assembly"
 authors:
 - Haohong Lin, Radu Corcodel, Ding Zhao
-date: "2023-09-01T00:00:00Z"
+date: "2023-11-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,7 +23,7 @@ abstract: Furniture assembly remains an unsolved problem in robotic manipulation
 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: Under Review
 # Controllable Deep Generative Models
 
 tags:
