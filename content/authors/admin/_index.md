@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Second-year PhD
+role: Third-year PhD
 
 # Organizations/Affiliations
 organizations:
@@ -21,13 +21,12 @@ organizations:
 # - name: Chu-Kochen Honors College
 #   url: "http://ckc.zju.edu.cn/ckcen/main.htm"
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include causal inference, out-of-distribution generalization and robotics.
+bio: My research interests focus on "reasoning over safety", or RoS, which lies at the intersection of causal discovery and representation, skill-based abstraction and safe reinforcement learning. Specifically, I'm interested in their applications in safety-critical scenarios like autonomous vehicles and robot manipulation. 
 
 interests:
 - Causal Representation Learning
-- Generalizable Reinforcement Learning
-- Robotics
-
+- Trustworthy Reinforcement Learning
+- Contact-rich Manipulation and Robotic Assembly
 
 education:
   courses:
