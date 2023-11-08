@@ -1,7 +1,7 @@
 ---
 title: "Bilinear Causal World Modeling for Generalizable Offline Reinfocement Learning"
 authors:
-- Haohong Lin, Wenhao Ding, Jian Cheng, Laixi Shi, Jiacheng Zhu, Ding Zhao
+- Haohong Lin, Wenhao Ding, Jian Chen, Laixi Shi, Jiacheng Zhu, Ding Zhao
 date: "2023-10-15T00:00:00Z"
 doi: ""
 
