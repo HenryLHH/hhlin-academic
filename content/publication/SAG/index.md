@@ -22,7 +22,7 @@ abstract: Generating adversarial scenarios, which have the potential to fail aut
 
 
 # Summary. An optional shortened abstract.
-summary: Under Review
+summary: ICML 2023 Workshop on Knowledge and Logical Reasoning in the Era of Data-driven Learning
 # Knowledge-guided Generation, Adversarial Attack
 
 tags:
@@ -45,7 +45,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'PID Controller for hyper parameter β: [**A diagram view**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Semantically Adversarial Scenario Generation: [**A tree-structured model**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
 
