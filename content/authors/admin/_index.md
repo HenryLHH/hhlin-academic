@@ -24,9 +24,9 @@ organizations:
 bio: My research interests focus on "reasoning over safety", or RoS, which lies at the intersection of causal discovery and representation, skill-based abstraction and safe reinforcement learning. Specifically, I'm interested in their applications in safety-critical scenarios like autonomous vehicles and robot manipulation. 
 
 interests:
-- Causal Representation Learning
-- Trustworthy Reinforcement Learning
-- Contact-rich Manipulation and Robotic Assembly
+- Causal reasoning for Generalizable Reinforcement Learning
+- Safety-critical Scenario Generation for Autonomous Vehicles
+- Learning from Imperfect Demonstration
 
 education:
   courses:
