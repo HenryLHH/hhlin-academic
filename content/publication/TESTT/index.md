@@ -23,7 +23,7 @@ abstract: Furniture assembly remains an unsolved problem in robotic manipulation
 
 
 # Summary. An optional shortened abstract.
-summary: Under Review
+summary: ICRA 2024
 # Controllable Deep Generative Models
 
 tags:
