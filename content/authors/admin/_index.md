@@ -31,10 +31,13 @@ interests:
 education:
   courses:
   - course: Ph.D., SafeAI Lab
-    institution: Carnegie Mellon University
+    institution: College of Engineering, Carnegie Mellon University
     year: 2021-
-  - course: B.Eng. in Robotics Track @ CSE, CKC Honors College
-    institution: Zhejiang University
+  - course: M.S., Machine Learning
+    institution: School of Computer Science, Carnegie Mellon University
+    year: 2021-
+  - course: B.Eng. in Robotics, Chu Kochen Honors College
+    institution: Department of Control Science and Engineering, Zhejiang University
     year: 2017-2021
   - course: Science Course of High School
     institution: Fuzhou No.1 High School 
