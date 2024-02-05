@@ -31,17 +31,23 @@ interests:
 education:
   courses:
   - course: Ph.D., SafeAI Lab
-    institution: College of Engineering, Carnegie Mellon University
+    institution: College of Engineering, 
+    
+    Carnegie Mellon University
     year: 2021-
   - course: M.S., Machine Learning
-    institution: School of Computer Science, Carnegie Mellon University
+    institution: School of Computer Science, 
+    
+    Carnegie Mellon University
     year: 2021-
   - course: B.Eng. in Robotics, Chu Kochen Honors College
-    institution: Department of Control Science and Engineering, Zhejiang University
+    institution: Department of Control Science and Engineering, 
+    
+    Zhejiang University
     year: 2017-2021
-  - course: Science Course of High School
-    institution: Fuzhou No.1 High School 
-    year: 2014-2017
+  # - course: Science Course of High School
+  #   institution: Fuzhou No.1 High School 
+  #   year: 2014-2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -62,9 +68,9 @@ social:
   link: https://scholar.google.com/citations?user=EK_pgMIAAAAJ&hl=zh-CN&oi=ao
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: https://drive.google.com/file/d/1kgHjEOq_96F2yJBmrMt_ZWbXk96VucK_/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -75,7 +81,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a third year PhD student of {{< staticref "https://safeai-lab.github.io/" "newtab" >}}SafeAI Lab{{< /staticref >}} at Carnegie Mellon University, advised by Professor {{< staticref "https://safeai-lab.github.io/people.html" "newtab" >}}Ding Zhao{{< /staticref >}}. I also work closely with Professor {{< staticref "https://aisecure.github.io/" "newtab" >}}Bo Li{{< /staticref >}}. My current research interest lies at the intersection of causal representation learning and generalizable reinforcement learning, which can potentially be applied on robots and other autonomous systems. Prior to CMU, I spent wonderful time collaborating with {{< staticref "https://shj1987.github.io/" "newtab" >}}Huajie Shao{{< /staticref >}}, who joined William and Mary as tenure-track assistant professor.
+I am a third-year PhD student of {{< staticref "https://safeai-lab.github.io/" "newtab" >}}SafeAI Lab{{< /staticref >}} at Carnegie Mellon University, advised by Professor {{< staticref "https://safeai-lab.github.io/people.html" "newtab" >}}Ding Zhao{{< /staticref >}}. I also work closely with Professor {{< staticref "https://aisecure.github.io/" "newtab" >}}Bo Li{{< /staticref >}}. My current research interest lies at the intersection of causal representation learning and generalizable reinforcement learning, which can potentially be applied on robots and other autonomous systems. Prior to CMU, I spent wonderful time collaborating with {{< staticref "https://shj1987.github.io/" "newtab" >}}Huajie Shao{{< /staticref >}}, who joined William and Mary as tenure-track assistant professor.
 
 <!-- I was admitted to the CSST research program this summer at the University of California, Los Angeles (UCLA), which has been unfortunately suspended due to the outbreak of COVID-19.
 
