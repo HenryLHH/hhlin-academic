@@ -1,12 +1,12 @@
 ---
-title: "Bilinear Causal World Modeling for Generalizable Offline Reinfocement Learning"
+title: "BECAUSE: Bilinear Causal Representation for Generalizable Offline Model-based Reinfocement Learning"
 authors:
-- Haohong Lin, Wenhao Ding, Jian Chen, Laixi Shi, Jiacheng Zhu, Ding Zhao
-date: "2023-10-15T00:00:00Z"
+- Haohong Lin, Wenhao Ding, Jian Chen, Laixi Shi, Jiacheng Zhu, Bo Li, Ding Zhao
+date: "2024-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-10-15T00:00:00Z"
+publishDate: "2024-02-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -46,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'BiCOM diagram: [**causal world modeling and uncertainty-aware conservative planning**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'BECAUSE diagram: [**causal world modeling and uncertainty-aware conservative planning**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
 
