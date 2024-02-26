@@ -15,8 +15,8 @@ publishDate: "2023-11-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "NeurIPS 2023 ML4AD Symposium / IROS 2023 CfR Workshop"
-publication_short: "Under Review by R-AL"
+publication: "Robotics and Automation Letter (RA-L)"
+publication_short: "Robotics and Automation Letter (RA-L)"
 
 abstract: In the domain of autonomous driving, the Learning from Demonstration (LfD) paradigm has exhibited notable efficacy in addressing sequential decision-making problems. However, consistently achieving safety in varying traffic contexts, especially in safety-critical scenarios, poses a significant challenge due to the long-tailed and unforeseen scenarios absent from offline datasets. In this paper, we introduce the saFety-aware strUctured Scenario representatION (FUSION), a pioneering methodology conceived to facilitate the learning of an adaptive end-to-end driving policy by leveraging structured scenario information. FUSION capitalizes on the causal relationships between decomposed reward, cost, state, and action space, constructing a framework for structured sequential reasoning under dynamic traffic environments. We conduct rigorous evaluations in two typical real-world settings of distribution shift in autonomous vehicles, demonstrating the good balance between safety cost and utility reward of FUSION compared to contemporary state-of-the-art safety-aware LfD baselines. Empirical evidence under diverse driving scenarios attests that FUSION significantly enhances the safety and generalizability of autonomous driving agents, even in the face of challenging and unseen environments. Furthermore, our ablation studies reveal noticeable improvements in the integration of causal representation into the safe offline RL problem.
 
