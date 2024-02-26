@@ -22,7 +22,7 @@ abstract: In the domain of autonomous driving, the Learning from Demonstration (
 
 
 # Summary. An optional shortened abstract.
-summary: NeurIPS 2023 ML4AD Symposium
+summary: Robotics and Automation Letters (RA-L) 2024
 # Controllable Deep Generative Models
 
 tags:
