@@ -22,7 +22,7 @@ abstract: In the domain of autonomous driving, the Learning from Demonstration (
 
 
 # Summary. An optional shortened abstract.
-summary: Robotics and Automation Letters (RA-L) 2024
+summary: RA-L 2024
 # Controllable Deep Generative Models
 
 tags:
