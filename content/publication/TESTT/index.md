@@ -34,7 +34,7 @@ featured: true
 # - name: Custom Link
 #   url: https://github.com/shj1987/ControlVAE-ICML2020
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2404.17684'
 url_code: ''
 url_dataset: ''
 url_poster: ''
