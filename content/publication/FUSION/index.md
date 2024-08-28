@@ -34,7 +34,7 @@ url_pdf: https://arxiv.org/pdf/2311.10747.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://sites.google.com/view/safe-fusion'
 url_slides: ''
 url_source: ''
 url_video: ''
