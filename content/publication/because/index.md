@@ -12,18 +12,18 @@ publishDate: "2024-02-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under Review"
-publication_short: "Under Review"
+publication: "CoRL 2022"
+publication_short: "CoRL 2022"
 
 abstract: Offline Model-based Reinforcement Learning (MBRL) enhances data efficiency by utilizing pre-collected datasets to learn models and policies, especially in scenarios where exploration is costly or infeasible. Nevertheless, its performance often suffers from the objective mismatch between model and policy learning, resulting in inferior performance despite accurate model predictions. This paper initially identifies the primary source of this mismatch as the distribution shift present in offline data. Subsequently, we introduce **B**ilin**E**ar **CAUS**al r**E**presentation~(BECAUSE), a novel algorithm to capture causal representation for both states and actions to reduce the influence of the distribution shift, thus fixing the objective mismatch problem. Empirical evaluations across 18 tasks varying in data quality demonstrate the superior performance of BECAUSE over existing offline MBRL algorithms. Additionally, we offer a theoretical analysis of BECAUSE within the framework of a causal world model and pessimistic planning approach, affirming its capability and efficiency in integrating causal representation into offline MBRL.
 
 
 
 # Summary. An optional shortened abstract.
-summary: Under Review
+summary: NeurIPS 2024
 # Controllable Deep Generative Models
 
 tags:
