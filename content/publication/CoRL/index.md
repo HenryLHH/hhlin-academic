@@ -1,7 +1,7 @@
 ---
 title: "CausalAF: Causal Autoregressive Flow for Goal-Directed Safety-Critical Scenes Generation"
 authors:
-- Wenhao Ding, Haohong Lin, Bo Li, Ding Zhao
+- Wenhao Ding, <b>Haohong Lin</b>, Bo Li, Ding Zhao
 date: "2022-09-10T00:00:00Z"
 doi: ""
 
