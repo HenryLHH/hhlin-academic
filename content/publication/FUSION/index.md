@@ -1,5 +1,5 @@
 ---
-title: "Safety-aware Causal Representation for Trustworthy Reinforcement Learning in Autonomous Driving"
+title: "Safety-aware Causal Representation for Trustworthy Offline Reinforcement Learning in Autonomous Driving"
 authors:
 - Haohong Lin, Wenhao Ding, Zuxin Liu, Yaru Niu, Jiacheng Zhu, Yuming Niu, Ding Zhao
 date: "2023-11-01T00:00:00Z"
@@ -31,13 +31,13 @@ featured: true
 
 
 url_pdf: https://arxiv.org/pdf/2311.10747.pdf
-url_code: ''
+url_code: 'https://github.com/HenryLHH/fusion'
 url_dataset: https://drive.google.com/drive/folders/10T-i_SlHRkB5FKLCa1BO4rpZgw-9x3AN
-url_poster: ''
+url_poster: content/publication/FUSION/FUSION_Poster.pdf
 url_project: https://sites.google.com/view/safe-fusion
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://drive.google.com/file/d/1lV1NWw0D1nH1-KjX1RqH4kDcaFSIJM1i/view'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
