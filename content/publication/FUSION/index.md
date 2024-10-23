@@ -33,7 +33,7 @@ featured: true
 url_pdf: https://arxiv.org/pdf/2311.10747.pdf
 url_code: 'https://github.com/HenryLHH/fusion'
 url_dataset: https://drive.google.com/drive/folders/10T-i_SlHRkB5FKLCa1BO4rpZgw-9x3AN
-url_poster: content/publication/FUSION/FUSION_Poster.pdf
+url_poster: publication/fusion/fusion_poster.pdf
 url_project: https://sites.google.com/view/safe-fusion
 url_slides: ''
 url_source: ''
