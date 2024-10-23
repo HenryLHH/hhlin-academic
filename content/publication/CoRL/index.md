@@ -33,7 +33,7 @@ featured: true
 #   url: https://github.com/shj1987/ControlVAE-ICML2020
 
 url_pdf: https://arxiv.org/pdf/2110.13939.pdf
-url_code: ''
+url_code: https://github.com/trust-ai/SafeBench/blob/main/safebench/scenario/scenario_policy/normalizing_flow_policy.py
 url_dataset: ''
 url_poster: ''
 url_project: ''
