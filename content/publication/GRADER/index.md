@@ -36,7 +36,7 @@ featured: true
 url_pdf: https://arxiv.org/pdf/2207.09081.pdf
 url_code: https://github.com/GilgameshD/GRADER/tree/main
 url_dataset: ''
-url_poster: ''
+url_poster: publication/grader/grader_poster.pdf
 url_project: ''
 url_slides: ''
 url_source: ''

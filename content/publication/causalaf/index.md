@@ -35,7 +35,7 @@ featured: true
 url_pdf: https://arxiv.org/pdf/2110.13939.pdf
 url_code: https://github.com/trust-ai/SafeBench/blob/main/safebench/scenario/scenario_policy/normalizing_flow_policy.py
 url_dataset: ''
-url_poster: ''
+url_poster: publication/causalaf/causalaf_poster.pdf
 url_project: ''
 url_slides: ''
 url_source: ''
