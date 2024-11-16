@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Third-year PhD
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
