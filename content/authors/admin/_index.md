@@ -36,7 +36,7 @@ education:
   - course: MS in Machine Learning
     institution: School of Computer Science, CMU
     year: 2021-2024
-  - course: BS in Automation (Robotics Track)
+  - course: BS in Automation (Robotics)
     institution: Department of Control Science and Engineering, ZJU
     year: 2017-2021
   # - course: Science Course of High School
