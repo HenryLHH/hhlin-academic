@@ -28,17 +28,17 @@ interests:
 - Safety-critical scenario generation for closed-loop simulation
 - Long-horizon interaction-rich decision-making
 
-education:
-  courses:
-  - course: PhD at SafeAI Lab
-    institution: College of Engineering, CMU
-    year: 2021-
-  - course: MS in Machine Learning
-    institution: School of Computer Science, CMU
-    year: 2021-2024
-  - course: BS in Automation (Robotics)
-    institution: Department of Control Science and Engineering, ZJU
-    year: 2017-2021
+# education:
+#   courses:
+#   - course: PhD at SafeAI Lab
+#     institution: College of Engineering, CMU
+#     year: 2021-
+#   - course: MS in Machine Learning
+#     institution: School of Computer Science, CMU
+#     year: 2021-2024
+#   - course: BS in Automation (Robotics)
+#     institution: Department of Control Science and Engineering, ZJU
+#     year: 2017-2021
   # - course: Science Course of High School
   #   institution: Fuzhou No.1 High School 
   #   year: 2014-2017
@@ -75,8 +75,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a fourth-year PhD student of {{< staticref "https://safeai-lab.github.io/" "newtab" >}}SafeAI Lab{{< /staticref >}} at Carnegie Mellon University, and a Master in Machine Learning at School of Computer Science, advised by Professor {{< staticref "https://safeai-lab.github.io/people.html" "newtab" >}}Ding Zhao{{< /staticref >}}. I also work closely with Professor {{< staticref "https://aisecure.github.io/" "newtab" >}}Bo Li{{< /staticref >}} and {{< staticref "https://huan-zhang.com/" "newtab" >}}Huan Zhang{{< /staticref >}}. My current research interest lies at the intersection of causal representation learning and generalizable reinforcement learning, which can potentially be applied on robots and other autonomous systems. Prior to CMU, I receive my B.S. Degree with highest honor in Automation (Robotics Track) from Zhejiang University in 2021. I also spent wonderful time collaborating with {{< staticref "https://shj1987.github.io/" "newtab" >}}Huajie Shao{{< /staticref >}}, who joined William and Mary as tenure-track assistant professor. 
-
+I am a fourth-year PhD student of {{< staticref "https://safeai-lab.github.io/" "newtab" >}}SafeAI Lab{{< /staticref >}} at Carnegie Mellon University, and a Master in Machine Learning at School of Computer Science, advised by Professor {{< staticref "https://safeai-lab.github.io/people.html" "newtab" >}}Ding Zhao{{< /staticref >}}. My current research interest lies at the intersection of causal representation learning generalizable world model in embodied agents. Prior to CMU, I receive my B.S. Degree with highest honor in Automation (Robotics Track) from Zhejiang University in 2021. I also spent wonderful time collaborating with {{< staticref "https://shj1987.github.io/" "newtab" >}}Huajie Shao{{< /staticref >}}, who is working at William and Mary as tenure-track assistant professor. 
+<!-- I also work closely with Professor {{< staticref "https://aisecure.github.io/" "newtab" >}}Bo Li{{< /staticref >}} and {{< staticref "https://huan-zhang.com/" "newtab" >}}Huan Zhang{{< /staticref >}}. -->
 <!-- I was admitted to the CSST research program this summer at the University of California, Los Angeles (UCLA), which has been unfortunately suspended due to the outbreak of COVID-19.
 
 I take an active part in Mathematical Modeling Competition. I received Finalist Prize (2% among 20,000+ teams) this year in Interdisciplinary Contest in Modeling (ICM). -->
