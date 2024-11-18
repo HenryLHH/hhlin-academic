@@ -23,10 +23,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests focus on 'reasoning over safety', or RoS, which lies at the intersection of causal reasoning, state abstraction and trustworthy reinforcement learning. Specifically, I'm interested in their applications in critical scenarios like autonomous vehicles and robot manipulation. 
 
-interests:
-- Causal reasoning for generalist agents
-- Safety-critical scenario generation for closed-loop simulation
-- Long-horizon interaction-rich decision-making
+# interests:
+# - Causal reasoning for generalist agents
+# - Safety-critical scenario generation for closed-loop simulation
+# - Long-horizon interaction-rich decision-making
 
 # education:
 #   courses:
