@@ -1,7 +1,7 @@
 ---
-title: "Semantically Adversarial Driving Scenario Generation with Explicit Knowledge Integration"
+title: "Datasets and Benchmarks for Offline Safe Reinforcement Learning"
 authors:
-- Wenhao Ding, Haohong Lin, Bo Li, Kim Ji Eun, Ding Zhao
+- Zuxin Liu, Zijian Guo, Haohong Lin, Yihang Yao, Jiacheng Zhu, Zhepeng Cen, Hanjiang Hu, Wenhao Yu, Tingnan Zhang, Jie Tan, Ding Zhao
 date: "2023-06-19T00:00:00Z"
 doi: ""
 
