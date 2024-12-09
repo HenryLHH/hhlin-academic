@@ -35,10 +35,10 @@ featured: true
 #   url: https://github.com/shj1987/ControlVAE-ICML2020
 
 url_pdf: 'https://arxiv.org/pdf/2407.10967'
-url_code: ''
+url_code: 'https://github.com/HenryLHH/BECAUSE'
 url_dataset: ''
 url_poster: publication/because/because_poster.pdf
-url_project: ''
+url_project: 'https://sites.google.com/view/be-cause'
 url_slides: ''
 url_source: ''
 url_video: ''

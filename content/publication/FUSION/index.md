@@ -36,7 +36,7 @@ url_dataset: ''
 url_poster: publication/fusion/fusion_poster.pdf
 url_project: https://sites.google.com/view/safe-fusion
 url_slides: ''
-url_source: ''
+url_source: 'https://sites.google.com/view/safe-fusion/'
 url_video: 'https://drive.google.com/file/d/1lV1NWw0D1nH1-KjX1RqH4kDcaFSIJM1i/view'
 
 # Featured image
